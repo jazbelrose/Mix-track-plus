@@ -1,0 +1,15 @@
+*.mp3
+*.wav
+*.flac
+*.aiff
+*.aif
+*.m4a
+*.ogg
+input/
+out/
+peaks/
+test/
+__pycache__/
+*.pyc
+.venv/
+*.tmp
